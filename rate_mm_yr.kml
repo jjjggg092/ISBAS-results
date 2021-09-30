@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>rate_mm_yr</name>
+	<GroundOverlay>
+		<name>GMT Image Overlay</name>
+		<Icon>
+			<href>rate_mm_yr.png</href>
+		</Icon>
+		<altitudeMode>clampToGround</altitudeMode>
+		<LatLonBox>
+			<north>0.722083</north>
+			<south>-0.458194</south>
+			<east>-77.869598</east>
+			<west>-78.858185</west>
+		</LatLonBox>
+		<Region>
+		<LatLonAltBox>
+			<north>0.722083</north>
+			<south>-0.458194</south>
+			<east>282.130402</east>
+			<west>281.141815</west>
+		</LatLonAltBox>
+		</Region>
+	</GroundOverlay>
+</Document>
+</kml>
