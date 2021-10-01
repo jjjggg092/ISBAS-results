@@ -4,10 +4,10 @@
 
 ### Files
 
-- ** baseline_table.dat: ** file with information about the acquisition dates of the images.
-- **rate_mm_yr.grd: ** NetCDF 4 file with all the data calculated to obtain the mean displacement between 2015 and 2020.
-- **rate_mm_yr.kml: ** Google Earth file to visualize the results obtained.
-- **rate_mm_yr.png: ** Supplement of the *rate_mm_yr.kml* to see the results.
+- **baseline_table.dat:** file with information about the acquisition dates of the images.
+- **rate_mm_yr.grd:** NetCDF 4 file with all the data calculated to obtain the mean displacement between 2015 and 2020.
+- **rate_mm_yr.kml:** Google Earth file to visualize the results obtained.
+- **rate_mm_yr.png:** Supplement of the *rate_mm_yr.kml* to see the results.
 
 ### Requiriments
 ##### Software
@@ -28,7 +28,7 @@ python3 plot_ts.py (disp_file.txt) (latitude) (longitude)
 ```
 where:
 
-- **disp_file.txt: ** A file with all the locations of the grd files with the information about displacements.
+- **disp_file.txt:** A file with all the locations of the grd files with the information about displacements.
 - **latitude:** The latitude reference in decimal degrees.
 - **longitude:** The longitude reference in decimal degrees.
 
