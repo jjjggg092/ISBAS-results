@@ -1,6 +1,6 @@
 # ISBAS results
 ### Description
- plot_ts.py The script `plot_ts.py` allows to read all the files result of executing the ISBAS  method from   [this repostiry](https://github.com/ericlindsey/isbas "ISBAS code") and create a plot with the time series displacement of a specific location.
+ plot_ts.py The script `plot_ts.py` allows to read all the files result of executing the ISBAS  method from   [this reposotory](https://github.com/ericlindsey/isbas "ISBAS code") and create a plot with the time series displacement of a specific location.
 
 ### Files
 
